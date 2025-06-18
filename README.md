@@ -1,6 +1,6 @@
-# 🛠️ Herramientas de Automatización a la Medida por PamirezRB
+# 🛠️ Herramientas de Automatización a la Medida por pramirezb
 
-¡Bienvenido al repositorio **`hecho_a_la_medida`** de PamirezRB! Aquí encontrarás aplicaciones de escritorio desarrolladas en Python, diseñadas para simplificar y agilizar tus tareas diarias, sin necesidad de instalar Python o configuraciones complicadas. Nuestro objetivo es ofrecerte soluciones ejecutables y personalizadas para necesidades específicas.
+¡Bienvenido al repositorio **`hecho_a_la_medida`** de pramirezb! Aquí encontrarás aplicaciones de escritorio desarrolladas en Python, diseñadas para simplificar y agilizar tus tareas diarias, sin necesidad de instalar Python o configuraciones complicadas. Nuestro objetivo es ofrecerte soluciones ejecutables y personalizadas para necesidades específicas.
 
 ---
 
@@ -44,4 +44,4 @@ Ofrezco desarrollo de scripts en Python y la creación de herramientas ejecutabl
 
 ---
 
-© 2025 PamirezRB. Todos los derechos reservados.
+© 2025 pramirezb. Todos los derechos reservados.
